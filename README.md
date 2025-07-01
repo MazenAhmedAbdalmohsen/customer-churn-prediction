@@ -77,6 +77,6 @@ pip install -r requirements.txt
 
 ## 👤 Author
 
-- Your Name ([@MazenAhmedAbdalmohsen](https://github.com/yourgithubhandle))
+- My Name ([@MazenAhmedAbdalmohsen](https://github.com/yourgithubhandle))
 
 ---
